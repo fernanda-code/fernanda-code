@@ -25,7 +25,7 @@ Nome.............. Fernanda Moresco
 Instituição....... Universidade de Passo Fundo — UPF
 Foco.............. Desenvolvimento de Software
 Status............ Em formação
-Objetivo.......... Primeira oportunidade na área de Tecnologia
+Objetivo.......... Crescimento na área de Tecnologia
 
 > SYSTEM.STATUS: ONLINE
 ```
