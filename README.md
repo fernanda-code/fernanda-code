@@ -10,7 +10,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-fernanda--code-181717?style=for-the-badge\&logo=github)](https://github.com/fernanda-code)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernanda%20Moresco-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=fernanda-code\&style=for-the-badge\&color=7F3FBF)](https://github.com/fernanda-code)
 
 </div>
 
