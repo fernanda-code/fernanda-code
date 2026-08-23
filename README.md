@@ -72,26 +72,6 @@ Atualmente, estou focada em evoluir minhas habilidades técnicas, desenvolver pr
 
 ---
 
-## 🚀 O que estou desenvolvendo
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                  CURRENT OBJECTIVES                  │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  [01] Evoluir como desenvolvedora                  │
-│  [02] Criar projetos para meu portfólio             │
-│  [03] Aprofundar conhecimentos em APIs              │
-│  [04] Evoluir em bancos de dados e SQL              │
-│  [05] Aprimorar desenvolvimento web                 │
-│  [06] Aprender continuamente novas tecnologias      │
-│  [07] Conquistar minha primeira oportunidade em TI  │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
----
-
 ## 📂 Projetos em destaque
 
 ### 🐾 Sistema de Adoção de Pets
@@ -149,16 +129,6 @@ Projetos desenvolvidos durante a graduação voltados para aplicações mobile.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=fernanda-code&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fernanda-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 
 </div>
 
