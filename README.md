@@ -169,7 +169,7 @@ Projetos desenvolvidos durante a graduação voltados para aplicações mobile.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fernanda-code/fernanda-code/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fernanda-code/fernanda-code/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
