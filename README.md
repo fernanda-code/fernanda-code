@@ -61,7 +61,7 @@ Atualmente, estou focada em evoluir minhas habilidades técnicas, desenvolver pr
 ### 🧪 Testes & Desenvolvimento
 
 <p>
-<img src="https://skillicons.dev/icons?i=selenium,junit,maven" />
+<img src="https://skillicons.dev/icons?i=selenium,maven" />
 </p>
 
 ### 🛠️ Ferramentas
@@ -114,41 +114,19 @@ Projetos desenvolvidos durante a graduação voltados para aplicações mobile.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-code&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernanda-code&theme=tokyonight" />
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=fernanda-code&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/fernanda-code/fernanda-code/gh-pages/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fernanda-code&theme=tokyo-night&hide_border=true" />
 
 </div>
 
