@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 FERNANDA MORESCO
 
-### `Análise e Desenvolvimento de Sistemas • Desenvolvedora em formação`
+### `Análise e Desenvolvimento de Sistemas • Desenvolvedora de Software`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F3FBF&center=true&vCenter=true&width=700&lines=Initializing+developer+profile...;Building+solutions+with+code+%F0%9F%92%BB;Learning.+Building.+Improving.;Welcome+to+my+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
 
@@ -30,9 +30,9 @@ Objetivo.......... Crescimento na área de Tecnologia
 > SYSTEM.STATUS: ONLINE
 ```
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória na área de tecnologia através de projetos acadêmicos e pessoais.
+Curso **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória na área de tecnologia através de projetos acadêmicos e pessoais.
 
-Tenho interesse principalmente em **desenvolvimento web, back-end, bancos de dados e qualidade de software**, buscando transformar os conhecimentos adquiridos durante a graduação em soluções funcionais e bem estruturadas.
+Tenho interesse principalmente em **desenvolvimento web, front-end, back-end, bancos de dados e qualidade de software**, buscando transformar os conhecimentos adquiridos durante a graduação em soluções funcionais e bem estruturadas.
 
 Atualmente, estou focada em evoluir minhas habilidades técnicas, desenvolver projetos para meu portfólio e conquistar minha **primeira oportunidade profissional na área de tecnologia**. 🚀
 
